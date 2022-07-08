@@ -1,4 +1,4 @@
-package com.application.practicalapp.base
+package com.application.nasapicturesapp.base
 
 
 import android.content.Context

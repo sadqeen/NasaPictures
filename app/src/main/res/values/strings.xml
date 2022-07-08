@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">NASA Pictures app</string>
+    <string name="no_internet">It seems you are not connected to Internet!</string>
 </resources>
