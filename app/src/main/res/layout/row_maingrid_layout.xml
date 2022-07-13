@@ -13,6 +13,7 @@
             app:cardElevation="4dp"
             app:cardPreventCornerOverlap="true"
             app:cardUseCompatPadding="true"
+            app:cardBackgroundColor="@color/white"
             android:focusable="true"
             android:background="@color/cardview_light_background"
             android:clipChildren="false"
