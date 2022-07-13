@@ -89,7 +89,6 @@ class MainGridModel(application: Application) : AndroidViewModel(application), L
         }
 
 
-
     }
 
 }
